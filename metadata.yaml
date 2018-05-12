@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/266
     wikipedia: http://en.wikipedia.org/wiki/Kate_Douglas_Wiggin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17456#The-Romance-of-a-Christmas-Card
 gutenberg_bookshelf: Christmas
 gutenberg_issued: '2006-01-04'
 gutenberg_type: Text
