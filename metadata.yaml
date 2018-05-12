@@ -1,0 +1,39 @@
+_repo: The-Romance-of-a-Christmas-Card_17456
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hunt, Alice Ercle
+    gutenberg_agent_id: '7401'
+    url: http://www.gutenberg.org/2009/agents/7401
+covers:
+- cover_type: archival
+  image_path: 17456-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wiggin, Kate Douglas Smith
+    aliases:
+    - Riggs, Kate Douglas Smith Wiggin
+    - Riggs, George Christopher, Mrs.
+    - Smith, Kate Douglas
+    - Wiggin, Samuel Bradley, Mrs.
+    birthdate: 1856
+    deathdate: 1923
+    gutenberg_agent_id: '266'
+    url: http://www.gutenberg.org/2009/agents/266
+    wikipedia: http://en.wikipedia.org/wiki/Kate_Douglas_Wiggin
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2006-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17456'
+  lccn: '16021128'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcc 'PS'
+title: The Romance of a Christmas Card
+url: http://www.gutenberg.org/ebooks/17456
